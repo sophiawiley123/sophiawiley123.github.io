@@ -4,6 +4,7 @@ sophiawiley.com
 sophiawiley.com
 
 ## Style Tile
+### Bio
 ### Colors 
 * Primary Color #EAE7DC
 * Secondary Color #403B3B
