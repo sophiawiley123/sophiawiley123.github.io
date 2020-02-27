@@ -1,21 +1,24 @@
 
 /* Style guide
-*primary color: pink
-*secondary color: black
+*primary color: Black
+*secondary color: #212121
 */
 /* Typography
  * Primary Font: 
 */
-/* font-family: 'Bowlby One SC', cursive; */
+/* font-family: "PT Serif"; */
 
 h1 {
-  color: pink;
-  font-family: 'Bowlby One SC', cursive;
-
+  color: #212121;
+  font-family: "PT Serif"; 
 }
 
 img {width: 100%;}
 
+p {
+  color: black;
+  font-family: "Lato";
+}
 /* CSS Variables */
 
 main { 
