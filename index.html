@@ -37,6 +37,45 @@
     </section>
     
     <footer>
+
+      <form name="contact"
+          method="POST"
+          data-netlify="true"
+          data-netlify-recaptcha="true">
+          
+          <p>
+                <label>Your Name: 
+            
+            <input type="text"
+                    name="name"
+                    required />
+                
+            </label>   
+            </p>
+            <p>
+                <label>Your Email: <input 
+                    type="email"
+                    name="email"
+                    required /></label>
+            </p>
+            <p>
+                <label>Message:
+                    
+                <textarea name="message" required>
+                </textarea>
+            
+            </label>
+            </p>
+
+            <input type="file">    
+
+            <div data-netlify-recaptcha="true"></div>
+
+            <p>
+                <button type="submit">Send</button>
+            </p>
+            </form>
+
     </footer>
     
   </main>
