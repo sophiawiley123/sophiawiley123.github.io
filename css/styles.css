@@ -45,8 +45,9 @@ main img {
        background: yellow;
        content: "Mobile Size";
   }
+  */
   
-} */
+}
 
 /* Tablet 
   26em (416 pixels) to 72em (1,152 pixels)
@@ -58,8 +59,8 @@ main img {
        background: yellow;
        content: "Tablet Size";
   }
-
-} */
+*/
+} 
 
 /* Desktop 
    72em (1,152 pixels) to 90em (1440 pixels)
@@ -71,20 +72,21 @@ main img {
        background: yellow;
        content: "Desktop Size";
   }
-
-} */
+ */
+}
 
 /* Wide Desktop: 
   Greater than 90em (1440px)
 */
-@media screen and (min-width: 90em) 
-  
+@media screen and (min-width: 90em) {
   /* Diagnostic Styling. Delete When Done. */
   /* body:before {
        background: yellow;
        content: "Wide Desktop Size";
   }
+*/
 
-*/ }
+}
+  
 
 
